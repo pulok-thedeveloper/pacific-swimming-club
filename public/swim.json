@@ -1,0 +1,156 @@
+[
+    {
+      "id": "6334a0b1a0235092d0fad27c",
+      "picture": "https://www.arenaswim.com/media/immagini/264_z_freestyle_Swim.gif",
+      "name": "FREESTYLE",
+      "Time Required": "24 min",
+      "about": "The freestyle is the oldest method of moving forward through the water after styles similar to the breaststroke; Roman warriors used to prepare for battle by performing swimming exercises very similar to the modern-day freestyle stroke: an alternating arm movement accompanied by a constant leg kick."
+    },
+    {
+      "id": "6334a0b1a311fe4f9475aa43",
+      "picture": "https://www.arenaswim.com/media/immagini/269_z_backstroke_Swim.gif",
+      "name": "BACKSTROKE",
+      "Time Required": "31 min",
+      "about": "Unlike the other three competitive swim strokes, the backstroke is the only one swum on your back.. This means that a good sense of direction is important as well as coordination."
+    },
+    {
+      "id": "6334a0b108663e7c0828026e",
+      "picture": "https://www.arenaswim.com/media/immagini/267_z_breaststroke_swim.gif",
+      "name": "BREASTSTROKE",
+      "Time Required": "26 min",
+      "about": "The breaststroke is one of the most complicated strokes to learn. Technically speaking, it is completely different from all the others, even in terms of where your forward thrust comes from, which, in the case of the breaststroke, is mainly from the legs (70% legs and 30% arms)"
+    },
+    {
+      "id": "6334a0b16294c7f3e7b1fc18",
+      "picture": "https://www.arenaswim.com/media/immagini/268_z_butterfly_Swim.gif",
+      "name": "BUTTERFLY",
+      "Time Required": "34 min",
+      "about": "The stroke gets its name from its sweeping arm action reminiscent of a butterfly’s wings. It is the most spectacular to watch and also the hardest to swim: this striking but also intimidating stroke seems to be beyond the capabilities of  “beginners”, but with enough practice and the right amount of power and coordination you will soon be swimming the butterfly."
+    },
+    {
+      "id": "6334a0b1606997b72f986a32",
+      "picture": "https://www.arenaswim.com/media/immagini/272_z_ffreestyle_arms_only_Swim.gif",
+      "name": "FREESTYLE ARMS",
+      "Time Required": "23 min",
+      "about": "Swim freestyle using your arms only: keep your legs still (use a pullbuoy or pullkick as an aid)."
+    },
+    {
+      "id": "6334a0b1762f511bf46f5f83",
+      "picture": "https://www.arenaswim.com/media/immagini/633_z_CRAWL_SwimKeel_legs.gif",
+      "name": "FREESTYLE ARMS WITH A SWIM KEEL",
+      "Time Required": "33 min",
+      "about": "The aim of using a Swim Keel is to keep your body aligned to eliminate any excessive sideways movement."
+    },
+    {
+        "id": "6334a17302c5ae1c24a6cc80",
+        "picture": "https://www.arenaswim.com/media/immagini/279_z_backstroke_arms_only_SWIM.gif",
+        "name": "BACKSTROKE ARMS",
+        "Time Required": "51 min",
+        "about": "Swim backstroke, using your arms only; keep your legs still (use a pullbuoy or pullkick as an aid)."
+      },
+      {
+        "id": "6334a1732ccc7ac1e81678ca",
+        "picture": "https://www.arenaswim.com/media/immagini/274_z_breaststroke_arms_only.gif",
+        "name": "BREASTSTROKE ARMS",
+        "Time Required": "20 min",
+        "about": "Swim breaststroke using your arms only: keep your legs still (use a pullbuoy or pullkick as an aid)."
+      },
+      {
+        "id": "6334a173b75edc81cc1aebd8",
+        "picture": "https://www.arenaswim.com/media/immagini/277_z_butterfly_arms_only.gif",
+        "name": "BUTTERFLY ARMS",
+        "Time Required": "54 min",
+        "about": "Swim the butterfly using your arms only: keep your legs still (use a pullbuoy or pullkick as an aid)."
+      },
+      {
+        "id": "6334a17305b9532e2c5654b0",
+        "picture": "https://www.arenaswim.com/media/immagini/271_z_one_arm_freestyle_Swim.gif",
+        "name": "ONE-ARM FREESTYLE",
+        "Time Required": "40 min",
+        "about": "Swim with one arm only keeping your other arm stretched out in front of you without moving."
+      },
+      {
+        "id": "6334a1735653c18b6b311df1",
+        "picture": "https://www.arenaswim.com/media/immagini/282_z_backstroke_one_arm_SWIM.gif",
+        "name": "ONE-ARM BACKSTROKE",
+        "Time Required": "37 min",
+        "about": "Single-arm backstroke is an excellent drill for reducing resistance to forward motion in the water and making your arm stroke more efficient."
+      },
+      {
+        "id": "6334a1739bf49bbcb0358efb",
+        "picture": "https://www.arenaswim.com/media/immagini/275_z_breaststroke_1_arm_SWIM.gif",
+        "name": "ONE-ARM BREASTSTROKE",
+        "Time Required": "32 min",
+        "about": "This drill will help you improve your breaststroke arm stroke and make it more efficient."
+      },
+      {
+        "id": "6334a17366808b834c62eb09",
+        "picture": "https://www.arenaswim.com/media/immagini/281_z_Butterfly_one_arm_SWIM.gif",
+        "name": "ONE-ARM BUTTERFLY",
+        "Time Required": "60 min",
+        "about": "Performing this drill regularly will allow you to improve your technique and swim properly even when you are tired."
+      },
+      {
+        "id": "6334a1736d52c721ae22a7d7",
+        "picture": "https://www.arenaswim.com/media/immagini/270_z_freestyle_legs_swim.gif",
+        "name": "FREESTYLE LEGS",
+        "Time Required": "20 min",
+        "about": "Swim freestyle using your legs only, keeping your arms still and extended out in front of you with one hand on top of the other."
+      },
+      {
+        "id": "6334a2d5e3a55daf10da673c",
+        "picture": "https://www.arenaswim.com/media/immagini/629_z_CRAWL_lat_Kickboard.gif",
+        "name": "FREESTYLE LEGS WITH A KICKBOARD",
+        "Time Required": "46 min",
+        "about": "Working with a Kickboard will allow you to focus on your legs to develop the muscles in your lower body and improve your leg kick technique."
+      },
+      {
+        "id": "6334a2d5c471e2b8d84e8ea0",
+        "picture": "https://www.arenaswim.com/media/immagini/273_z_breaststroke_legs_only_SWIM.gif",
+        "name": "BREASTSTROKE LEGS",
+        "Time Required": "29 min",
+        "about": "Swim breaststroke using your legs only with your arms extended in front of you and one hand on top of the other."
+      },
+      {
+        "id": "6334a2d5ee6519770ed1eabd",
+        "picture": "https://www.arenaswim.com/media/immagini/280_z_backstroke_legs_SWIM.gif",
+        "name": "BACKSTROKE LEGS",
+        "Time Required": "36 min",
+        "about": "Lying on your back, relax your neck by looking upwards and swim using your legs only."
+      },
+      {
+        "id": "6334a2d561b2bf5f56a492ad",
+        "picture": "https://www.arenaswim.com/media/immagini/276_z_butterfly_legs_only.gif",
+        "name": "BUTTERFLY LEGS",
+        "Time Required": "51 min",
+        "about": "Swim butterfly using your legs only with your arms extended in front of you and one hand on top of the other."
+      },
+      {
+        "id": "6334a2d561d5ce1fa81b924e",
+        "picture": "https://www.arenaswim.com/media/immagini/604_z_BACK_Lat_paddle.gif",
+        "name": "BACKSTROKE WITH HAND PADDLES",
+        "Time Required": "38 min",
+        "about": "Swimming with Elite Hand Paddles will ensure you have the right backstroke arm technique, improving your control and power."
+      },
+      {
+        "id": "6334a2d5937c341b4c2d0ad5",
+        "picture": "https://www.arenaswim.com/media/immagini/605_z_CRAWL_DragSuite.gif",
+        "name": "FREESTYLE WITH A DRAGSUIT",
+        "Time Required": "21 min",
+        "about": "Improve your performance by increasing resistance during your swim trainings. Wearing a drag suit in the water will apply high resistance, but swim without forgetting proper swim technique."
+      },
+      {
+        "id": "6334a2d5b7fda8c0a04fac8a",
+        "picture": "https://www.arenaswim.com/media/immagini/630_z_CRAWL_Lat_Paddle.gif",
+        "name": "FREESTYLE WITH HAND PADDLES",
+        "Time Required": "52 min",
+        "about": "Swimming with Elite Hand Paddles will improve your control over your arm stroke and increase your power in the water."
+      },
+      {
+        "id": "6334a3b47a939ee3c9b252b3",
+        "picture": "https://www.arenaswim.com/media/immagini/632_z_CRAWL_snorkel.gif",
+        "name": "FREESTYLE WITH A SWIM SNORKEL",
+        "Time Required": "52 min",
+        "about": "A snorkel will help you improve your head position and develop a more efficient swim technique. Be careful not to tense your body or raise your head when using a snorkel to swim freestyle, one of the most common mistakes made when swimming freestyle."
+      }
+  ]
