@@ -1,0 +1,99 @@
+.cart-container{
+    background-color: #bbdfff;
+    position: sticky;
+    top: 0;
+    padding: 20px;
+}
+
+.profile-details{
+    display: flex;
+    align-items: center;
+}
+
+.dp{
+    width: 50px;
+    border-radius: 50%;
+    border: 3px solid #324686;
+}
+
+.profile-info{
+    margin-left: 10px;
+}
+
+.my-name{
+    font-size: 18px;
+    margin: 0;
+}
+.address{
+    font-size: 15px;
+    margin: 0;
+}
+
+.profile-variables{
+    margin-top: 30px;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    font-size: 14px;
+}
+
+.profile-variables span{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.break-container{
+    margin: 30px 0;
+}
+
+h3{
+    text-align: left;
+}
+
+.break-times{
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 12px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.break-btn{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: none;
+    background-color: #BBDFFF;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.exercise-time,.break-time{
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+    margin-bottom: 20px;
+    padding: 0 15px;
+    border-radius: 10px;
+}
+
+.complete-btn{
+    width: 100%;
+    height: 45px;
+    background-color: #3d55a5;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #FFF;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.complete-btn:hover{
+    background-color: #4b6bd4;
+}
