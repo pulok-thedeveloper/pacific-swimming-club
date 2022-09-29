@@ -1,0 +1,9 @@
+.title{
+    text-align: left;
+}
+
+.activities-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px;
+}
