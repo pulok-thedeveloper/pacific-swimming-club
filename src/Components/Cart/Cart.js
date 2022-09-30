@@ -2,9 +2,28 @@ import React from 'react';
 import './Cart.css'
 import dp from '../../Dp.jpg'
 
-const Cart = () => {
+const Cart = ({cart}) => {
 
-    
+    let totalTime = 0;
+    for(const drill of cart){
+        totalTime = totalTime + parseInt(drill.time);
+    }
+
+    const allBreakbtns = document.getElementsByClassName('break-btn');
+            for(const breakBtn of allBreakbtns){
+                breakBtn.addEventListener('click',function(event){
+                    activeBtn(event.target);
+                })
+            }
+
+    function activeBtn(btn) {
+        document.querySelectorAll('.break-btn').forEach(a => {
+            a.classList.remove('active');
+        });
+
+        btn.classList.add('active');
+    }
+
 
     return (
         <div className='cart-container'>
@@ -39,11 +58,11 @@ const Cart = () => {
                 <h3>Exercise Details</h3>
                 <div className='exercise-time'>
                     <p>Exercise Time</p>
-                    <p>300min</p>
+                    <p>{totalTime}min</p>
                 </div>
                 <div className='break-time'>
                     <p>Break Time</p>
-                    <p>10min</p>
+                    <p className='break'></p>
                 </div>
                 <button className='complete-btn'>Activity Completed</button>
             </div>

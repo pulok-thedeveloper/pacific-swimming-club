@@ -1,13 +1,11 @@
 import './App.css';
-import Main from './Components/Main/Main';
-import Cart from './Components/Cart/Cart';
+import Activities from './Components/Activities/Activities';
 
 
 function App() {
   return (
     <div className="App">
-          <Main></Main>
-          <Cart></Cart>
+        <Activities></Activities>
     </div>
   );
 }

@@ -1,8 +1,9 @@
 .cart-container{
     background-color: #bbdfff;
     position: sticky;
-    top: 0;
+    top: 0px;
     padding: 20px;
+    height: 100vh;
 }
 
 .profile-details{
@@ -96,4 +97,9 @@ h3{
 
 .complete-btn:hover{
     background-color: #4b6bd4;
+}
+
+.active{
+    background-color: #3d55a5;
+    color: #FFF;
 }

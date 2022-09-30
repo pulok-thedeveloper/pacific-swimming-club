@@ -3,154 +3,154 @@
       "id": "6334a0b1a0235092d0fad27c",
       "picture": "Images/01_freestyle_Swim.gif",
       "name": "FREESTYLE",
-      "time": "24 min",
+      "time": "24",
       "about": "The freestyle is the oldest method of moving forward through the water after styles similar to the breaststroke."
     },
     {
       "id": "6334a0b1a311fe4f9475aa43",
       "picture": "Images/02_backstroke_Swim.gif",
       "name": "BACKSTROKE",
-      "time": "31 min",
+      "time": "31",
       "about": "Unlike the other three competitive swim strokes, the backstroke is the only one swum on your back.. This means that a good sense of direction is important as well as coordination."
     },
     {
       "id": "6334a0b108663e7c0828026e",
       "picture": "Images/03_freestyle_Swim.gif",
       "name": "BREASTSTROKE",
-      "time": "26 min",
+      "time": "26",
       "about": "The breaststroke is one of the most complicated strokes to learn. Technically speaking, it is completely different from all the others."
     },
     {
       "id": "6334a0b16294c7f3e7b1fc18",
       "picture": "Images/04_backstroke_Swim.gif",
       "name": "BUTTERFLY",
-      "time": "34 min",
+      "time": "34",
       "about": "The stroke gets its name from its sweeping arm action reminiscent of a butterfly’s wings."
     },
     {
       "id": "6334a0b1606997b72f986a32",
       "picture": "Images/05_ffreestyle_arms_only_Swim.gif",
       "name": "FREESTYLE ARMS",
-      "time": "23 min",
+      "time": "23",
       "about": "Swim freestyle using your arms only: keep your legs still (use a pullbuoy or pullkick as an aid)."
     },
     {
       "id": "6334a0b1762f511bf46f5f83",
       "picture": "Images/06_CRAWL_SwimKeel_legs.gif",
       "name": "FREESTYLE ARMS WITH A SWIM KEEL",
-      "time": "33 min",
+      "time": "33",
       "about": "The aim of using a Swim Keel is to keep your body aligned to eliminate any excessive sideways movement."
     },
     {
         "id": "6334a17302c5ae1c24a6cc80",
         "picture": "Images/07_backstroke_arms_only_SWIM.gif",
         "name": "BACKSTROKE ARMS",
-        "time": "51 min",
+        "time": "51",
         "about": "Swim backstroke, using your arms only; keep your legs still (use a pullbuoy or pullkick as an aid)."
       },
       {
         "id": "6334a1732ccc7ac1e81678ca",
         "picture": "Images/08_breaststroke_arms_only.gif",
         "name": "BREASTSTROKE ARMS",
-        "time": "20 min",
+        "time": "20",
         "about": "Swim breaststroke using your arms only: keep your legs still (use a pullbuoy or pullkick as an aid)."
       },
       {
         "id": "6334a173b75edc81cc1aebd8",
         "picture": "Images/09_butterfly_arms_only.gif",
         "name": "BUTTERFLY ARMS",
-        "time": "54 min",
+        "time": "54",
         "about": "Swim the butterfly using your arms only: keep your legs still (use a pullbuoy or pullkick as an aid)."
       },
       {
         "id": "6334a17305b9532e2c5654b0",
         "picture": "Images/10_one_arm_freestyle_Swim.gif",
         "name": "ONE-ARM FREESTYLE",
-        "time": "40 min",
+        "time": "40",
         "about": "Swim with one arm only keeping your other arm stretched out in front of you without moving."
       },
       {
         "id": "6334a1735653c18b6b311df1",
         "picture": "Images/11_backstroke_one_arm_SWIM.gif",
         "name": "ONE-ARM BACKSTROKE",
-        "time": "37 min",
+        "time": "37",
         "about": "Single-arm backstroke is an excellent drill for reducing resistance to forward motion in the water and making your arm stroke more efficient."
       },
       {
         "id": "6334a1739bf49bbcb0358efb",
         "picture": "Images/12_breaststroke_1_arm_SWIM.gif",
         "name": "ONE-ARM BREASTSTROKE",
-        "time": "32 min",
+        "time": "32",
         "about": "This drill will help you improve your breaststroke arm stroke and make it more efficient."
       },
       {
         "id": "6334a17366808b834c62eb09",
         "picture": "Images/13_Butterfly_one_arm_SWIM.gif",
         "name": "ONE-ARM BUTTERFLY",
-        "time": "60 min",
+        "time": "60",
         "about": "Performing this drill regularly will allow you to improve your technique and swim properly even when you are tired."
       },
       {
         "id": "6334a1736d52c721ae22a7d7",
         "picture": "Images/14_freestyle_legs_swim.gif",
         "name": "FREESTYLE LEGS",
-        "time": "20 min",
+        "time": "20",
         "about": "Swim freestyle using your legs only, keeping your arms still and extended out in front of you with one hand on top of the other."
       },
       {
         "id": "6334a2d5e3a55daf10da673c",
         "picture": "Images/15_CRAWL_lat_Kickboard.gif",
         "name": "FREESTYLE LEGS WITH A KICKBOARD",
-        "time": "46 min",
+        "time": "46",
         "about": "Working with a Kickboard will allow you to focus on your legs to develop the muscles in your lower body and improve your leg kick technique."
       },
       {
         "id": "6334a2d5c471e2b8d84e8ea0",
         "picture": "Images/16_breaststroke_legs_only_SWIM.gif",
         "name": "BREASTSTROKE LEGS",
-        "time": "29 min",
+        "time": "29",
         "about": "Swim breaststroke using your legs only with your arms extended in front of you and one hand on top of the other."
       },
       {
         "id": "6334a2d5ee6519770ed1eabd",
         "picture": "Images/17_backstroke_legs_SWIM.gif",
         "name": "BACKSTROKE LEGS",
-        "time": "36 min",
+        "time": "36",
         "about": "Lying on your back, relax your neck by looking upwards and swim using your legs only."
       },
       {
         "id": "6334a2d561b2bf5f56a492ad",
         "picture": "Images/18_butterfly_legs_only.gif",
         "name": "BUTTERFLY LEGS",
-        "time": "51 min",
+        "time": "51",
         "about": "Swim butterfly using your legs only with your arms extended in front of you and one hand on top of the other."
       },
       {
         "id": "6334a2d561d5ce1fa81b924e",
         "picture": "Images/19_BACK_Lat_paddle.gif",
         "name": "BACKSTROKE WITH HAND PADDLES",
-        "time": "38 min",
+        "time": "38",
         "about": "Swimming with Elite Hand Paddles will ensure you have the right backstroke arm technique, improving your control and power."
       },
       {
         "id": "6334a2d5937c341b4c2d0ad5",
         "picture": "Images/20_CRAWL_DragSuite.gif",
         "name": "FREESTYLE WITH A DRAGSUIT",
-        "time": "21 min",
+        "time": "21",
         "about": "Improve your performance by increasing resistance during your swim trainings. Wearing a drag suit in the water will apply high resistance, but swim without forgetting proper swim technique."
       },
       {
         "id": "6334a2d5b7fda8c0a04fac8a",
         "picture": "Images/21_CRAWL_Lat_Paddle.gif",
         "name": "FREESTYLE WITH HAND PADDLES",
-        "time": "52 min",
+        "time": "52",
         "about": "Swimming with Elite Hand Paddles will improve your control over your arm stroke and increase your power in the water."
       },
       {
         "id": "6334a3b47a939ee3c9b252b3",
         "picture": "Images/22_CRAWL_snorkel.gif",
         "name": "FREESTYLE WITH A SWIM SNORKEL",
-        "time": "52 min",
+        "time": "52",
         "about": "A snorkel will help you improve your head position and develop a more efficient swim technique. Be careful not to tense your body or raise your head when using a snorkel to swim freestyle."
       }
   ]

@@ -1,4 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800&family=Poppins:wght@400;500;600;700&display=swap');
+
+
+.header-container{
+    display: flex;
+    align-items: center;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+}
+
+.header-container h1{
+    font-size: 22px;
+    color: #30B6C2;
+    font-weight: 700;
+}
+
+
 .title{
+    margin-left: 80px;
     text-align: left;
 }
 
@@ -6,4 +28,22 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 50px;
+    margin: 30px 5%;
+}
+
+.main-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+  }
+
+@media screen and (max-width:992px){
+    .activities-container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width:768px){
+    .activities-container{
+        grid-template-columns: repeat(1, 1fr);
+    }
 }
