@@ -15,17 +15,9 @@ const Activities = () => {
       .then(data => setDrills(data))
     },[])
 
-    useEffect(()=>{
-        const storedCart = getStoredCart();
-        for(const id in storedCart){
-            const addedDrills = drills.find(drill => drill.id === id)
-        }
-    },[drills])
-
     const handleAddToCart =(drill) =>{
         const newCart = [...cart, drill];
         setCart(newCart);
-        addToDb(drill)
     }
 
     return (

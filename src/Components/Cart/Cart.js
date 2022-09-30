@@ -1,30 +1,20 @@
 import React from 'react';
 import './Cart.css'
 import dp from '../../Dp.jpg'
+import Break from '../Break/Break';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const Cart = ({cart}) => {
+
+    const notify = () => toast("Wow so easy!");
 
     let totalTime = 0;
     for(const drill of cart){
         totalTime = totalTime + parseInt(drill.time);
     }
 
-    const allBreakbtns = document.getElementsByClassName('break-btn');
-            for(const breakBtn of allBreakbtns){
-                breakBtn.addEventListener('click',function(event){
-                    activeBtn(event.target);
-                })
-            }
-
-    function activeBtn(btn) {
-        document.querySelectorAll('.break-btn').forEach(a => {
-            a.classList.remove('active');
-        });
-
-        btn.classList.add('active');
-    }
-
-
+    const breakTime = localStorage.getItem('break-time');
     return (
         <div className='cart-container'>
             <div>
@@ -46,11 +36,11 @@ const Cart = ({cart}) => {
 
             <div className='break-container'>
                 <h3>Add a Break</h3>
-                <div className='break-times'>
-                    <button className='break-btn'>5m</button>
-                    <button className='break-btn'>10m</button>
-                    <button className='break-btn'>15m</button>
-                    <button className='break-btn'>20m</button>
+                {
+                    
+                }
+                <div>
+                    <Break></Break>
                 </div>
             </div>
 
@@ -62,9 +52,10 @@ const Cart = ({cart}) => {
                 </div>
                 <div className='break-time'>
                     <p>Break Time</p>
-                    <p className='break'></p>
+                    <p id='break'>{breakTime}min</p>
                 </div>
-                <button className='complete-btn'>Activity Completed</button>
+                <button onClick={notify} className='complete-btn'>Activity Completed</button>
+
             </div>
         </div>
     );
