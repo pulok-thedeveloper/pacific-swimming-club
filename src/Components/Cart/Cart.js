@@ -36,9 +36,6 @@ const Cart = ({cart}) => {
 
             <div className='break-container'>
                 <h3>Add a Break</h3>
-                {
-                    
-                }
                 <div>
                     <Break></Break>
                 </div>
@@ -55,7 +52,7 @@ const Cart = ({cart}) => {
                     <p id='break'>{breakTime}min</p>
                 </div>
                 <button onClick={notify} className='complete-btn'>Activity Completed</button>
-
+                <ToastContainer></ToastContainer>
             </div>
         </div>
     );
