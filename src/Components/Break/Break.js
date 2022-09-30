@@ -13,7 +13,7 @@ const Break = () => {
     return (
         <div  className='break-times'>
             {
-                breakTimes.map(time => <Button addToDB = {addToDB} time={time}></Button>)
+                breakTimes.map(time => <Button key = {time} addToDB = {addToDB} time={time}></Button>)
             }
         </div>
     );
